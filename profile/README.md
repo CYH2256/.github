@@ -5,7 +5,7 @@
 3. Branch
 4. Commit
 5. Pull Request
-6. GitHub Actions CI
+6. GitHub Actions CI(CI가 설정된 경우) / Test(CI가 없는 경우)
    - Lint
    - Type Check
    - Test
